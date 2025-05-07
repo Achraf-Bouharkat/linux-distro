@@ -1,0 +1,40 @@
+install lightdm      GUI pack
+install openbox-gnome-session      window session for GUI
+install openbox          install the window manager
+install gnome-terminal
+
+restart the device
+
+install obmenu   makes you edit openbox     opnbx window session click droite
+install gedit   gnome editor   gedit ~/.config/openbox/AutoStart.sh    location AutoStart when start openbox it runs any line on AutoStart
+
+
+install #taskbar#
+Docky - Best Linux dock for a MacOS-like feel
+Tint2 - Linux dock for customization Geeks
+Cairo Dock - Most advanced and fully-featured GUI Linux dock
+DockBarX - Best Linux dock for XFCE users
+Latte Dock - Easy to use and highly customizable Linux Dock
+Plank Dock - Easiest to use Linux Dock
+Avant Window Navigator - Old and most configurable Linux Dock
+i3status - Best Linux Dock for command-line fans
+lemonbar - Most lightweight Linux Dock
+KSmoothDock - Best Linux Dock for KDE users 
+
+install docky        lunch apps
+
+install nitrogen install wallpapers
+install filemanager i did dolphin
+install icons
+install xcompmgr
+install neofetch for version
+install navigator
+install pulseaudio      pack for audio
+install pavucontrol
+install task manager
+install gconf-editor
+
+Install synth shell for better terminal 
+install w3m for pics in neofetch
+edit in ect the distro infos lsb release
+Customizing GNOME Desktop
